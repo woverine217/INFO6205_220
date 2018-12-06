@@ -1,4 +1,4 @@
-# INFO6205_FinalProject
+# INFO6205_220
 ### Genetic Algorithm Project about a Soda-Can-Collecting Robot Robby
 ## Contributers
 #### Yiqiang Wang, NUID:001403835  Zhaocheng Xu, NUID:001445374
