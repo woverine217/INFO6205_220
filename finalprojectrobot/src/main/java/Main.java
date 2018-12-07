@@ -13,7 +13,7 @@ class Main {
 	public static int ROW = 10;
 	public static int COL = 10;
 	public static double CAN = 0.5;
-	public static int POPULATION = 100000;
+	public static int POPULATION = 1000;
 	public static int operation = 100;
 	public static double MUTATIONRATE = 0.005;
 	public static int[] topScore = new int[generationNumber];

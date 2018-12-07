@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de20074-b054-4cfe-8aaf-772d010fc856" name="Default Changelist" comment="" />
+    <list default="true" id="8de20074-b054-4cfe-8aaf-772d010fc856" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Individual.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Individual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../../INFO6205_513-master (1)/INFO6205_513-master/GAFinal_RobbyCleanning/target/" />
@@ -54,17 +61,26 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1577365662">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="finalprojectrobot" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="84">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,18 +89,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/production/GAFinal_RubbyCleanning/EVOLUTION.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/GATest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="42">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -96,13 +103,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/IndividualTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="42">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -144,7 +151,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="126">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
@@ -156,6 +163,9 @@
     <findStrings>
       <find>Robot</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -201,18 +211,18 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="711" />
-    <option name="y" value="253" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="105" />
+    <option name="y" value="126" />
     <option name="width" value="1555" />
     <option name="height" value="1015" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -256,13 +266,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544071360186" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544159019227" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -298,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MapTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EVOLUTION" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EVOLUTION.EVOLUTION" />
       <module name="GAFinal_RubbyCleanning" />
@@ -363,10 +374,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MapTest" />
         <item itemvalue="JUnit.IndividualTest" />
         <item itemvalue="JUnit.GATest" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.GATest.testSexualReproduction" />
       </list>
     </recent_temporary>
@@ -387,16 +398,11 @@
       <workItem from="1543961746838" duration="7482000" />
       <workItem from="1543976442985" duration="7620000" />
       <workItem from="1544071178642" duration="769000" />
+      <workItem from="1544158763299" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RobotTest_copyGene - 2018.12.04 at 15h 39m 20s.xml">
-      <configuration name="RobotTest.copyGene" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MapTest_init_map_(1) - 2018.12.04 at 15h 44m 15s.xml">
-      <configuration name="MapTest.init_map (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MapTest_init_map_(1) - 2018.12.04 at 20h 46m 23s.xml">
       <configuration name="MapTest.init_map (1)" configurationId="JUnit" />
     </history-entry>
@@ -421,9 +427,15 @@
     <history-entry file="MapTest - 2018.12.05 at 23h 42m 08s.xml">
       <configuration name="MapTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MapTest - 2018.12.07 at 00h 00m 09s.xml">
+      <configuration name="MapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapTest - 2018.12.07 at 00h 00m 16s.xml">
+      <configuration name="MapTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25683000" />
+    <option name="totallyTimeSpent" value="25949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,9 +448,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="569" y="203" width="1244" height="812" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49423394" visible="true" weight="0.2643581" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49423394" visible="true" weight="0.21409395" />
       <window_info id="Structure" order="1" sideWeight="0.50576603" side_tool="true" weight="0.20134228" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -448,7 +460,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50576603" side_tool="true" weight="0.20134228" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39175257" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39148936" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,47 +504,13 @@
     <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master (1)/INFO6205_513-master/GAFinal_RobbyCleanning/src/main/java/Test/Robot/RobotTest.java" />
     <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master (1)/INFO6205_513-master/GAFinal_RobbyCleanning/src/test/MapTest.java" />
     <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master (1)/INFO6205_513-master/GAFinal_RobbyCleanning/src/main/java/Test/Robot/GenerationTest.java" />
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Map/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Test/Map/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Robot/Generation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Robot/Robot.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/test/GAFinal_RubbyCleanning/Robot/RobotTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/test/GAFinal_RubbyCleanning/Map/MapTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Map/Map.java" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Test/Map/MapTest.java" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Robot/Generation.java" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/Robot/Robot.java" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/test/GAFinal_RubbyCleanning/Robot/RobotTest.class" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/test/GAFinal_RubbyCleanning/Map/MapTest.class" />
     <entry file="jar://C:/Program Files/Java/jdk/src.zip!/java/util/ComparableTimSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
@@ -540,30 +518,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/test/GAFinal_RubbyCleanning/Robot/GenerationTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/EVOLUTION/EVOLUTION.java">
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/test/GAFinal_RubbyCleanning/Robot/GenerationTest.class" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/src/EVOLUTION/EVOLUTION.java" />
+    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/production/GAFinal_RubbyCleanning/EVOLUTION.class" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/GATest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="42">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../INFO6205_513-master/GAFinal_RobbyCleanning/out/production/GAFinal_RubbyCleanning/EVOLUTION.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/IndividualTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="42">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -571,13 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Individual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -590,25 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="126">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IndividualTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -616,6 +563,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
